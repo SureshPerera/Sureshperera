@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is  Suresh Perera. <br>I'm a Visionary Full Stack Developer From the Heart of Sri Lanka, Specializing in Power BI Development.<br/>👨‍💻 Pursuing BSc(Hons) in Information System @ University Of Eastern. & Bachelor Of Information Technology(External)  @ University Of Moratuwa.🎓 🌐 Passionate about tech-driven problem-solving & positive impacts 💡 &🚀 Fast learner. </h2>
+<h2 align="left">Hi 👋! My name is  Suresh Perera. <br>I'm a Visionary C# Full Stack Developer From the Heart of Sri Lanka, Specializing in Power BI Development.<br/>👨‍💻 Pursuing BSc(Hons) in Information System @ University Of Eastern. & Bachelor Of Information Technology(External)  @ University Of Moratuwa.🎓 🌐 Passionate about tech-driven problem-solving & positive impacts 💡 &🚀 Fast learner. </h2>
 
 ###
 
